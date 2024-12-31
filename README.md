@@ -14,7 +14,7 @@ This application will download the entire BTC blockchain to your computer (do no
 . The process would take 1-2 days and about 700GB of storage 
 
 **Step 3:** Parse btc data and dump them into your relational database. This process would take weeks and about 200GB of storage (We
-have to choose carefully which information we need for storage and analysis or else the storage space will blow up. 
+have to choose carefully which information we need for storage and analysis or else the storage space will blow up. This process would take weeks to complete. 
 
 **Step 4:** Post Processing. After getting the raw data. We should convert them into a set dim fact tables for easier analysis later
 down the road. Some suggestion: A dim table of entity (as one entity may have many address). A snapshot fact table capturing monthly balance, value transaction, number of transaction of entity. 

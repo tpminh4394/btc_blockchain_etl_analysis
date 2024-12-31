@@ -6,6 +6,7 @@ Bigquery dataset but they will charge you for every query. This is the main moti
 Hardware requirement is about 1T of storage. 
 
 Summary of the procress:
+
 **Step 1**: Set up a relational database. In my case I use postgres with DBeaver as a database management.
 
 **Step 2:** Run a bitcoin core node. Which can be found here. https://bitcoincore.org/en/download/

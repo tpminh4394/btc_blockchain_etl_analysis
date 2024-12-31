@@ -21,6 +21,7 @@ down the road. Some suggestion: A dim table of entity (as one entity may have ma
 
 **Step 5:** Now we are ready for Dashboard building/on chain analytics 
 
+By now I am still parsing data in part 3. While waiting for complete parsing. We can prepare some table transfromation for part 4 and start doing some simple analysis for part 5
 
 
 

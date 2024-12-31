@@ -12,8 +12,10 @@ import base58
 
 
 # Connect to the Bitcoin RPC
+# Bitcoin RPC is the API to get information from your btc core node 
+
 rpc_user = "miumiu"
-rpc_password = "meomeo"
+rpc_password = "xxxxxx"
 rpc_host = "127.0.0.1"
 rpc_port = "8332"
 
@@ -230,7 +232,7 @@ def get_block_data_with_details(block_height):
 db_params = {
     'dbname': 'postgres',   # Replace with your database name
     'user': 'postgres',         # Replace with your PostgreSQL user
-    'password': 'meomeo', # Replace with your PostgreSQL password
+    'password': 'xxxxxxx', # Replace with your PostgreSQL password
     'host': 'localhost',         # PostgreSQL server host
     'port': '5432'               # Default port for PostgreSQL
 }

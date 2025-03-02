@@ -1,5 +1,5 @@
 # btc blockchain etl & analysis
-In this project, I will show you how to store the entire btc blockchain ingformation in a relational database for 
+In this project, I will show you how to store the entire btc blockchain information in a relational database for 
 on-chain data inspection and analysis. There is also a publicly available version of the btc blockchain in Google 
 Bigquery dataset but they will charge you for every query. This is the main motivation why I do this project.
 
